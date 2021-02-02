@@ -10,6 +10,6 @@
 
 
 
-token = "1432787460:AAFfYjikLdhgujehjtrftweGHO4yFNHiuhU"
+token = " "
 path_to_vg = "../input/botfiles/vangogh_model/vangogh_model"
 path_to_ukiyoe = "../input/botfiles/ukiyoe_model/ukiyoe_model"
