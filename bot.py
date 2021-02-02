@@ -43,7 +43,7 @@ async def start_msg(msg, state):
     button_start = types.KeyboardButton(text="/start")
     button_help = types.KeyboardButton(text="/help")
     button_nst = types.KeyboardButton(text="/user_style")
-    button_gan1 = types.KeyboardButton(text="/Ukiyo-e")
+    button_gan1 = types.KeyboardButton(text="/Ukiyoe")
     button_gan2 = types.KeyboardButton(text="/VanGogh")
     keyboard.add(button_start, button_help)
     keyboard.row(button_nst, button_gan1, button_gan2)
